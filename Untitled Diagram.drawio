@@ -1,1 +1,211 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T14:12:20.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" version="17.2.1" etag="BWF8tWO4A5XUduTnIfPa" type="github"><diagram id="gOMTUu9a3fQG_O2-foZ2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-23T15:09:53.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="rCpKXBzikFXN52G2UIMy" version="17.2.1" type="github">
+  <diagram id="gOMTUu9a3fQG_O2-foZ2" name="Page-1">
+    <mxGraphModel dx="1737" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X4mrAmJHezILYjjDiZY6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-2" value="Add New Milestone&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="600" as="sourcePoint" />
+            <mxPoint x="20" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-6" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 40px&quot;&gt;Sum&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-7" value="Next Milestone: Milestone #&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;€&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-9" value="Milestone # Single complete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-10" value="Milestone # complete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-11" value="overview bookings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-8" value="Add New Booking" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="175" y="590" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="920" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-13" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Add New Milestone&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="920" y="920" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1120" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-18" value="Save and back &lt;br&gt;to overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-21" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Cancel and back &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-19" value="Save and Add new milestone" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="1390" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-23" value="#" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1000" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-24" value="€" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1060" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-25" value="&lt;span&gt;Single Complete = Alle Buchungen in dem Jahr werden zusammengerechnet&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;Complete = nur die wiederkehrenden Buchungen werden dazu verwendet.&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1720" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-27" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Add New Booking&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1720" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-28" value="€" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1860" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-29" value="Date" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1920" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-30" value="Checkbox Single Bill" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1980" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-31" value="Checkbox repeditive Bill&lt;br&gt;Checkboxes: yearly - halfyearly - quartal - monthly" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2040" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-33" value="Save and back &lt;br&gt;to overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-34" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Cancel and back &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-35" value="Save and Add new booking" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="2190" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-37" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Milestones&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-41" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; back to overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-43" value="overview Milestones" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="360" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-42" value="Add new Milestone" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1390" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-44" value="&lt;span&gt;Die Milestone nummern sollten sich selbst anhand ihrer Größe&amp;nbsp;oder ihres Datums Ordnen&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1520" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-45" value="Milestone #" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-49" value="Milestone #" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1060" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-52" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Milestone #&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-53" value="€" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1000" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-54" value="Date" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1060" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-55" value="Single Complete: Yes/No&lt;br&gt;Complete: Yes/no" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1120" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-56" value="Delete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; back to milestones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-58" value="edit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1390" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-59" value="Single Complete: %&lt;br&gt;Complete: %" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1180" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1720" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-61" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Bookings&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1720" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-62" value="booking #" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1800" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-63" value="booking #" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1860" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; back to overview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-66" value="Add new booking" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2190" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-67" value="&lt;span&gt;Die booking Einträge&amp;nbsp;sollten sich anhand ihrer nummern oder ihres Datums&amp;nbsp;ordnen.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2320" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-68" value="&lt;span&gt;Die booking nummern sollten sich selbst anhand ihrer größten Nummer&amp;nbsp;selbst vergeben&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2320" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-69" value="#" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1800" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-70" value="Date" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1120" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-71" value="&lt;span&gt;Die Milestone Nummer&amp;nbsp;wird automatisch erstellt je nach Größe&amp;nbsp;des wertes.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1520" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1720" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-73" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Booking #&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1720" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-74" value="€" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1800" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-75" value="Date" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1860" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-76" value="Single bill or repeditive bill" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1920" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-77" value="Delete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-78" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; back to bookings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X4mrAmJHezILYjjDiZY6-79" value="edit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="615" y="2190" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
